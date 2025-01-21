@@ -17,7 +17,6 @@ An IDE such as IntelliJ IDEA or any text editor
 
 #Installation
 Clone the repository to your local machine:
-git clone https://github.com/your-username/calculator-app.git
 Open the project in your IDE.
 
 # Running the Application
