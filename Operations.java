@@ -127,7 +127,7 @@ public class Operations {
                 System.out.println("Goodbye!");
                 return;
             default:
-                System.out.println("Invalid choice! Please enter a valid choice.");
+                System.out.println("Invalid choice! Please enter a valid choice (1 - 6)");
         }
         // We will keep upgrading our calculator app each day to make it perfect!!
 
